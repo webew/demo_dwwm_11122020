@@ -1,16 +1,16 @@
-// function fonctionSansReturn() {
-//     console.log("Ma fonction est de créer un fonction");
-// }
+function fonctionSansReturn() {
+    console.log("Ma fonction est de créer un fonction");
+}
 
-// fonctionSansReturn();
+fonctionSansReturn();
 
-// function fonctionAvecReturn() {
-//     return "Je suis une fonction avec return";
-// }
+function fonctionAvecReturn() {
+    return "Je suis une fonction avec return";
+}
 
-// let message = fonctionAvecReturn();
+let message = fonctionAvecReturn();
 
-// console.log(message);
+console.log(message);
 
 //////////////////////////////////////////////
 
